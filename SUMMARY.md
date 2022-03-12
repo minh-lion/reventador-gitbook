@@ -1,23 +1,20 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Roadmap](roadmap.md)
-* [Bridging Guides](bridging-guides.md)
-* [FAQ](faq.md)
-
-## Governance
-
-* [ARCA Token](governance/arca-token.md)
+* [Roadmaps](roadmaps.md)
+* [General FAQ](general-faq.md)
 
 ## Products
 
-* [Swap](products/swap.md)
-* [Farm](products/farm.md)
-* [arUSD Stablecoin](products/arusd-stablecoin/README.md)
-  * [Missions](products/arusd-stablecoin/missions.md)
-  * [Getting arUSD](products/arusd-stablecoin/getting-arusd.md)
-  * [Mechanism & Stability](products/arusd-stablecoin/mechanism-and-stability.md)
+* [ArcaSwap (copy)](products/arcaswap-copy.md)
+* [Yield Farming (copy)](products/yield-farming-copy.md)
+* [Bridge (copy)](products/bridge-copy.md)
+* [arUSD](products/arusd.md)
 * [Coming Soon](products/coming-soon.md)
+
+## Tokenomics
+
+* [ARCA Token](tokenomics/arca-token.md)
 
 ## Contracts
 
@@ -25,11 +22,11 @@
 * [Risks](contracts/risks.md)
 * [Audits](contracts/audits.md)
 
+## Resoures
+
+* [How-To Guides](resoures/how-to-guides/README.md)
+  * [How to Flash-loan from Arca](resoures/how-to-guides/how-to-flash-loan-from-arca.md)
+
 ## Official Links
 
 * [Telegram](https://aasdasdsd.com)
-
-## Others
-
-* [Brand Assets](others/brand-assets.md)
-* [How to Flash-loan from Arca](others/how-to-flash-loan-from-arca.md)

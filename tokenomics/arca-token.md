@@ -1,6 +1,6 @@
 # ARCA Token
 
-The ARCA is the Arca's governance token. 60% of its supply is used as incentives for those providing liquidity in our pools and products.
+The ARCA is the Arca's governance token. 70% of its supply is used as incentives for those providing liquidity in our pools and products.
 
 **Ticker:** Arca
 
@@ -45,6 +45,6 @@ Sign up for an account on the [Saddle community Discourse](https://www.saddle.co
 
 Currently, ARCA is earned by providing liquidity on Arca's liquidity pools.
 
-The AXIAL token can also be purchased on the following exchanges:
+The ARCA token can be purchased on the following exchanges:
 
 * [**T**risolaris.io](https://analytics.traderjoexyz.com/tokens/0xcF8419A615c57511807236751c0AF38Db4ba3351)
